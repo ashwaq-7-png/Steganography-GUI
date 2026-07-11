@@ -1,8 +1,8 @@
 # Steganography-GUI
 
-**Username:** RiyazShaik27<br>
-**Name:** Shaik Riyaz <br>
-**Email:** shaikriyaz11011@gmail.com<br>
+**Username:** ashwaq-7-png<br>
+**Name:** Ashwaqw shaik <br>
+**Email:** ashwaqshaik1511@gmail.com<br>
 **Repository:** Steganography-GUI <br>
 ---
 **Table of Contents**
